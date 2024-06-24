@@ -20,9 +20,9 @@ variable "common_tags" {
 }
 
 variable "domain_name" {
-    default = "daws78s.online"
+    default = "phonestand.in"
 }
 
 variable "zone_id" {
-    default = "Z08884492QFPW45HM4UQO"
+    default = "Z09483833FHRDIS9G69I"
 }
